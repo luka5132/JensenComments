@@ -7,3 +7,5 @@ So far I've mainly looked at straight forward things. I have for example:
 * identified the users with the most replies and their respective points (likes / score / etc.).
 * Investigated the links that are posted underneath the videos. The only 'tradional media' website in the top 10 most posted links is youtube. All other 9 websites are either small personal websites such as Jensen, or platforms with fewer restrictions. This striked my as interesting, because it really showcases the online bubble that people create for themselves. Maybe the algorithms are not the only sources of evil in this matter.
 * Identified the video that brought forth the most commotion (at least from the data I collected, as mentioned comments are removed after a certain period of time)
+
+## Stopped due to removal of comments from Jensen website
